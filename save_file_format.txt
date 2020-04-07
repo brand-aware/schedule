@@ -1,0 +1,1 @@
+time(mins),day(0-6),frequency(1-10)

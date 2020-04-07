@@ -1,0 +1,9 @@
+<activity_progress.txt>
+year,month,day,duration,frequency,success
+year,month,day,duration,frequency,success
+year,month,day,duration,frequency,success
+year,month,day,duration,frequency,success
+...
+
+where <success> = true/false
+where <duration> = minutes
